@@ -1,0 +1,6 @@
+{
+  "name": "fullcycle-desafio-pipeline-ci-sonarcloud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
