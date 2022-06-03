@@ -2,5 +2,12 @@
   "name": "fullcycle-desafio-pipeline-ci-sonarcloud",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
