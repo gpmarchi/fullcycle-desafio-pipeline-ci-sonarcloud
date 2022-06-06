@@ -1,5 +1,6 @@
-const sum = require("./math.js")
+const { sum, subtract } = require("./math.js")
 
-const result = sum(10, 10)
+const sumResult = sum(10, 10)
+const subtractResult = subtract(10, 10)
 
-console.log(result);
+console.log(sumResult, subtractResult);
